@@ -1,9 +1,9 @@
-import './App.css'
+import { MainFormPage } from './pages/MainFormPage'
 
 export const App = () => {
   return (
     <>
-      hey
+      <MainFormPage />
     </>
   )
 }
